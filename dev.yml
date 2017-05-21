@@ -1,0 +1,5 @@
+name: garethson.github.io
+
+up:
+  - ruby:
+      version: 2.3.1
