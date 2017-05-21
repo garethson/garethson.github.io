@@ -1,9 +1,10 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
+name: Gareth du Plooy's blog
+description: Blogging about code
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
+year: 2017
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
@@ -13,4 +14,4 @@ gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'blog url'
-author:         'Your Name'
+author:         'Gareth du Plooy'
